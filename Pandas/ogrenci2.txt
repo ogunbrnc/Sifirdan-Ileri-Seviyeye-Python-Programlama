@@ -1,0 +1,7 @@
+KitapAdi,KitapYazari,KitapSayfaSayisi,KitapFiyati
+Mecburiyet,Stefan Zweig,56,1.00
+Zacharius Usta,Jules Verne,56,3.30
+Kayıp Tanrılar Ülkesi,Ahmet Ümit,504,17.33
+Mutlu Olma Sanatı,Arthur Schopenhauer,56,4.67
+Altıncı Koğuş,Çehov,68,2.98
+Bir İdam Mahkumunun Son Günü,Hasan Ali Yücel,136,4.98

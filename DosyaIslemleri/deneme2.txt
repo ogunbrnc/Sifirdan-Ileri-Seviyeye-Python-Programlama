@@ -1,0 +1,2 @@
+Ogun,Birinci,45,85.
+Burak,Ikinci,80,90.

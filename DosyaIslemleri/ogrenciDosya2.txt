@@ -1,0 +1,4 @@
+Ogrenci Adi Soyadi:Ogun Birinci, Vize:45, Final:85, Ortalama:69.0,Harf Notu:D ve Basari Durumu:Basarili
+Ogrenci Adi Soyadi:Burak Ikinci, Vize:80, Final:90, Ortalama:86.0,Harf Notu:B ve Basari Durumu:Basarili
+Ogrenci Adi Soyadi:Beril Kucukdilek, Vize:85, Final:95, Ortalama:91.0,Harf Notu:A ve Basari Durumu:Basarili
+Ogrenci Adi Soyadi:Omer Selvi, Vize:15, Final:25, Ortalama:21.0,Harf Notu:F ve Basari Durumu:Basarisiz

@@ -1,0 +1,938 @@
+{
+    "Angry Men": {
+        "image": "angrymen.jpg",
+        "id": 1,
+        "koltukBilgileri": [
+            {
+                "koltukNo": 1,
+                "koltukDurumu": 1,
+                "alanKisi": "Ogun Birinci",
+                "tutar": 20.0
+            },
+            {
+                "koltukNo": 2,
+                "koltukDurumu": 1,
+                "alanKisi": "Yeliz Akkaya",
+                "tutar": 20.0
+            },
+            {
+                "koltukNo": 3,
+                "koltukDurumu": 1,
+                "alanKisi": "Burak Ikinci",
+                "tutar": 20.0
+            },
+            {
+                "koltukNo": 4,
+                "koltukDurumu": 1,
+                "alanKisi": "Ogun Birinci",
+                "tutar": 15.0
+            },
+            {
+                "koltukNo": 5,
+                "koltukDurumu": 1,
+                "alanKisi": "Yeliz Akkaya",
+                "tutar": 15.0
+            },
+            {
+                "koltukNo": 6,
+                "koltukDurumu": 0,
+                "alanKisi": "",
+                "tutar": 0
+            },
+            {
+                "koltukNo": 7,
+                "koltukDurumu": 1,
+                "alanKisi": "Ogun Birinci",
+                "tutar": 15.0
+            },
+            {
+                "koltukNo": 8,
+                "koltukDurumu": 1,
+                "alanKisi": "Yeliz Akkaya",
+                "tutar": 15.0
+            },
+            {
+                "koltukNo": 9,
+                "koltukDurumu": 0,
+                "alanKisi": "",
+                "tutar": 0
+            },
+            {
+                "koltukNo": 10,
+                "koltukDurumu": 0,
+                "alanKisi": "",
+                "tutar": 0
+            },
+            {
+                "koltukNo": 11,
+                "koltukDurumu": 0,
+                "alanKisi": "",
+                "tutar": 0
+            },
+            {
+                "koltukNo": 12,
+                "koltukDurumu": 0,
+                "alanKisi": "",
+                "tutar": 0
+            },
+            {
+                "koltukNo": 13,
+                "koltukDurumu": 0,
+                "alanKisi": "",
+                "tutar": 0
+            },
+            {
+                "koltukNo": 14,
+                "koltukDurumu": 0,
+                "alanKisi": "",
+                "tutar": 0
+            },
+            {
+                "koltukNo": 15,
+                "koltukDurumu": 0,
+                "alanKisi": "",
+                "tutar": 0
+            },
+            {
+                "koltukNo": 16,
+                "koltukDurumu": 0,
+                "alanKisi": "",
+                "tutar": 0
+            },
+            {
+                "koltukNo": 17,
+                "koltukDurumu": 0,
+                "alanKisi": "",
+                "tutar": 0
+            },
+            {
+                "koltukNo": 18,
+                "koltukDurumu": 0,
+                "alanKisi": "",
+                "tutar": 0
+            },
+            {
+                "koltukNo": 19,
+                "koltukDurumu": 0,
+                "alanKisi": "",
+                "tutar": 0
+            },
+            {
+                "koltukNo": 20,
+                "koltukDurumu": 0,
+                "alanKisi": "",
+                "tutar": 0
+            },
+            {
+                "koltukNo": 21,
+                "koltukDurumu": 0,
+                "alanKisi": "",
+                "tutar": 0
+            },
+            {
+                "koltukNo": 22,
+                "koltukDurumu": 0,
+                "alanKisi": "",
+                "tutar": 0
+            },
+            {
+                "koltukNo": 23,
+                "koltukDurumu": 0,
+                "alanKisi": "",
+                "tutar": 0
+            },
+            {
+                "koltukNo": 24,
+                "koltukDurumu": 0,
+                "alanKisi": "",
+                "tutar": 0
+            },
+            {
+                "koltukNo": 25,
+                "koltukDurumu": 0,
+                "alanKisi": "",
+                "tutar": 0
+            }
+        ]
+    },
+    "God Father": {
+        "image": "godfather.jpg",
+        "id": 2,
+        "koltukBilgileri": [
+            {
+                "koltukNo": 1,
+                "koltukDurumu": 1,
+                "alanKisi": "Ogun Birinci",
+                "tutar": 20.0
+            },
+            {
+                "koltukNo": 2,
+                "koltukDurumu": 1,
+                "alanKisi": "Yeliz Akkaya",
+                "tutar": 20.0
+            },
+            {
+                "koltukNo": 3,
+                "koltukDurumu": 1,
+                "alanKisi": "Ogun Birinci",
+                "tutar": 15.0
+            },
+            {
+                "koltukNo": 4,
+                "koltukDurumu": 1,
+                "alanKisi": "Yeliz Akkaya",
+                "tutar": 15.0
+            },
+            {
+                "koltukNo": 5,
+                "koltukDurumu": 0,
+                "alanKisi": "",
+                "tutar": 0
+            },
+            {
+                "koltukNo": 6,
+                "koltukDurumu": 0,
+                "alanKisi": "",
+                "tutar": 0
+            },
+            {
+                "koltukNo": 7,
+                "koltukDurumu": 0,
+                "alanKisi": "",
+                "tutar": 0
+            },
+            {
+                "koltukNo": 8,
+                "koltukDurumu": 0,
+                "alanKisi": "",
+                "tutar": 0
+            },
+            {
+                "koltukNo": 9,
+                "koltukDurumu": 0,
+                "alanKisi": "",
+                "tutar": 0
+            },
+            {
+                "koltukNo": 10,
+                "koltukDurumu": 0,
+                "alanKisi": "",
+                "tutar": 0
+            },
+            {
+                "koltukNo": 11,
+                "koltukDurumu": 0,
+                "alanKisi": "",
+                "tutar": 0
+            },
+            {
+                "koltukNo": 12,
+                "koltukDurumu": 0,
+                "alanKisi": "",
+                "tutar": 0
+            },
+            {
+                "koltukNo": 13,
+                "koltukDurumu": 0,
+                "alanKisi": "",
+                "tutar": 0
+            },
+            {
+                "koltukNo": 14,
+                "koltukDurumu": 0,
+                "alanKisi": "",
+                "tutar": 0
+            },
+            {
+                "koltukNo": 15,
+                "koltukDurumu": 0,
+                "alanKisi": "",
+                "tutar": 0
+            },
+            {
+                "koltukNo": 16,
+                "koltukDurumu": 0,
+                "alanKisi": "",
+                "tutar": 0
+            },
+            {
+                "koltukNo": 17,
+                "koltukDurumu": 0,
+                "alanKisi": "",
+                "tutar": 0
+            },
+            {
+                "koltukNo": 18,
+                "koltukDurumu": 0,
+                "alanKisi": "",
+                "tutar": 0
+            },
+            {
+                "koltukNo": 19,
+                "koltukDurumu": 0,
+                "alanKisi": "",
+                "tutar": 0
+            },
+            {
+                "koltukNo": 20,
+                "koltukDurumu": 0,
+                "alanKisi": "",
+                "tutar": 0
+            },
+            {
+                "koltukNo": 21,
+                "koltukDurumu": 0,
+                "alanKisi": "",
+                "tutar": 0
+            },
+            {
+                "koltukNo": 22,
+                "koltukDurumu": 0,
+                "alanKisi": "",
+                "tutar": 0
+            },
+            {
+                "koltukNo": 23,
+                "koltukDurumu": 0,
+                "alanKisi": "",
+                "tutar": 0
+            },
+            {
+                "koltukNo": 24,
+                "koltukDurumu": 0,
+                "alanKisi": "",
+                "tutar": 0
+            },
+            {
+                "koltukNo": 25,
+                "koltukDurumu": 0,
+                "alanKisi": "",
+                "tutar": 0
+            }
+        ]
+    },
+    "God Father II": {
+        "image": "godfather2.jpg",
+        "id": 3,
+        "koltukBilgileri": [
+            {
+                "koltukNo": 1,
+                "koltukDurumu": 0,
+                "alanKisi": "",
+                "tutar": 0
+            },
+            {
+                "koltukNo": 2,
+                "koltukDurumu": 0,
+                "alanKisi": "",
+                "tutar": 0
+            },
+            {
+                "koltukNo": 3,
+                "koltukDurumu": 0,
+                "alanKisi": "",
+                "tutar": 0
+            },
+            {
+                "koltukNo": 4,
+                "koltukDurumu": 0,
+                "alanKisi": "",
+                "tutar": 0
+            },
+            {
+                "koltukNo": 5,
+                "koltukDurumu": 0,
+                "alanKisi": "",
+                "tutar": 0
+            },
+            {
+                "koltukNo": 6,
+                "koltukDurumu": 0,
+                "alanKisi": "",
+                "tutar": 0
+            },
+            {
+                "koltukNo": 7,
+                "koltukDurumu": 0,
+                "alanKisi": "",
+                "tutar": 0
+            },
+            {
+                "koltukNo": 8,
+                "koltukDurumu": 0,
+                "alanKisi": "",
+                "tutar": 0
+            },
+            {
+                "koltukNo": 9,
+                "koltukDurumu": 0,
+                "alanKisi": "",
+                "tutar": 0
+            },
+            {
+                "koltukNo": 10,
+                "koltukDurumu": 0,
+                "alanKisi": "",
+                "tutar": 0
+            },
+            {
+                "koltukNo": 11,
+                "koltukDurumu": 0,
+                "alanKisi": "",
+                "tutar": 0
+            },
+            {
+                "koltukNo": 12,
+                "koltukDurumu": 0,
+                "alanKisi": "",
+                "tutar": 0
+            },
+            {
+                "koltukNo": 13,
+                "koltukDurumu": 0,
+                "alanKisi": "",
+                "tutar": 0
+            },
+            {
+                "koltukNo": 14,
+                "koltukDurumu": 0,
+                "alanKisi": "",
+                "tutar": 0
+            },
+            {
+                "koltukNo": 15,
+                "koltukDurumu": 0,
+                "alanKisi": "",
+                "tutar": 0
+            },
+            {
+                "koltukNo": 16,
+                "koltukDurumu": 0,
+                "alanKisi": "",
+                "tutar": 0
+            },
+            {
+                "koltukNo": 17,
+                "koltukDurumu": 0,
+                "alanKisi": "",
+                "tutar": 0
+            },
+            {
+                "koltukNo": 18,
+                "koltukDurumu": 0,
+                "alanKisi": "",
+                "tutar": 0
+            },
+            {
+                "koltukNo": 19,
+                "koltukDurumu": 0,
+                "alanKisi": "",
+                "tutar": 0
+            },
+            {
+                "koltukNo": 20,
+                "koltukDurumu": 0,
+                "alanKisi": "",
+                "tutar": 0
+            },
+            {
+                "koltukNo": 21,
+                "koltukDurumu": 0,
+                "alanKisi": "",
+                "tutar": 0
+            },
+            {
+                "koltukNo": 22,
+                "koltukDurumu": 0,
+                "alanKisi": "",
+                "tutar": 0
+            },
+            {
+                "koltukNo": 23,
+                "koltukDurumu": 0,
+                "alanKisi": "",
+                "tutar": 0
+            },
+            {
+                "koltukNo": 24,
+                "koltukDurumu": 0,
+                "alanKisi": "",
+                "tutar": 0
+            },
+            {
+                "koltukNo": 25,
+                "koltukDurumu": 0,
+                "alanKisi": "",
+                "tutar": 0
+            }
+        ]
+    },
+    "The Lord of the Rings": {
+        "image": "loftr.jpg",
+        "id": 4,
+        "koltukBilgileri": [
+            {
+                "koltukNo": 1,
+                "koltukDurumu": 0,
+                "alanKisi": "",
+                "tutar": 0
+            },
+            {
+                "koltukNo": 2,
+                "koltukDurumu": 0,
+                "alanKisi": "",
+                "tutar": 0
+            },
+            {
+                "koltukNo": 3,
+                "koltukDurumu": 0,
+                "alanKisi": "",
+                "tutar": 0
+            },
+            {
+                "koltukNo": 4,
+                "koltukDurumu": 0,
+                "alanKisi": "",
+                "tutar": 0
+            },
+            {
+                "koltukNo": 5,
+                "koltukDurumu": 0,
+                "alanKisi": "",
+                "tutar": 0
+            },
+            {
+                "koltukNo": 6,
+                "koltukDurumu": 0,
+                "alanKisi": "",
+                "tutar": 0
+            },
+            {
+                "koltukNo": 7,
+                "koltukDurumu": 0,
+                "alanKisi": "",
+                "tutar": 0
+            },
+            {
+                "koltukNo": 8,
+                "koltukDurumu": 0,
+                "alanKisi": "",
+                "tutar": 0
+            },
+            {
+                "koltukNo": 9,
+                "koltukDurumu": 0,
+                "alanKisi": "",
+                "tutar": 0
+            },
+            {
+                "koltukNo": 10,
+                "koltukDurumu": 0,
+                "alanKisi": "",
+                "tutar": 0
+            },
+            {
+                "koltukNo": 11,
+                "koltukDurumu": 0,
+                "alanKisi": "",
+                "tutar": 0
+            },
+            {
+                "koltukNo": 12,
+                "koltukDurumu": 0,
+                "alanKisi": "",
+                "tutar": 0
+            },
+            {
+                "koltukNo": 13,
+                "koltukDurumu": 0,
+                "alanKisi": "",
+                "tutar": 0
+            },
+            {
+                "koltukNo": 14,
+                "koltukDurumu": 0,
+                "alanKisi": "",
+                "tutar": 0
+            },
+            {
+                "koltukNo": 15,
+                "koltukDurumu": 0,
+                "alanKisi": "",
+                "tutar": 0
+            },
+            {
+                "koltukNo": 16,
+                "koltukDurumu": 0,
+                "alanKisi": "",
+                "tutar": 0
+            },
+            {
+                "koltukNo": 17,
+                "koltukDurumu": 0,
+                "alanKisi": "",
+                "tutar": 0
+            },
+            {
+                "koltukNo": 18,
+                "koltukDurumu": 0,
+                "alanKisi": "",
+                "tutar": 0
+            },
+            {
+                "koltukNo": 19,
+                "koltukDurumu": 0,
+                "alanKisi": "",
+                "tutar": 0
+            },
+            {
+                "koltukNo": 20,
+                "koltukDurumu": 0,
+                "alanKisi": "",
+                "tutar": 0
+            },
+            {
+                "koltukNo": 21,
+                "koltukDurumu": 0,
+                "alanKisi": "",
+                "tutar": 0
+            },
+            {
+                "koltukNo": 22,
+                "koltukDurumu": 0,
+                "alanKisi": "",
+                "tutar": 0
+            },
+            {
+                "koltukNo": 23,
+                "koltukDurumu": 0,
+                "alanKisi": "",
+                "tutar": 0
+            },
+            {
+                "koltukNo": 24,
+                "koltukDurumu": 0,
+                "alanKisi": "",
+                "tutar": 0
+            },
+            {
+                "koltukNo": 25,
+                "koltukDurumu": 0,
+                "alanKisi": "",
+                "tutar": 0
+            }
+        ]
+    },
+    "Pulp Fiction": {
+        "image": "pulpfiction.jpg",
+        "id": 5,
+        "koltukBilgileri": [
+            {
+                "koltukNo": 1,
+                "koltukDurumu": 0,
+                "alanKisi": "",
+                "tutar": 0
+            },
+            {
+                "koltukNo": 2,
+                "koltukDurumu": 0,
+                "alanKisi": "",
+                "tutar": 0
+            },
+            {
+                "koltukNo": 3,
+                "koltukDurumu": 0,
+                "alanKisi": "",
+                "tutar": 0
+            },
+            {
+                "koltukNo": 4,
+                "koltukDurumu": 0,
+                "alanKisi": "",
+                "tutar": 0
+            },
+            {
+                "koltukNo": 5,
+                "koltukDurumu": 0,
+                "alanKisi": "",
+                "tutar": 0
+            },
+            {
+                "koltukNo": 6,
+                "koltukDurumu": 0,
+                "alanKisi": "",
+                "tutar": 0
+            },
+            {
+                "koltukNo": 7,
+                "koltukDurumu": 0,
+                "alanKisi": "",
+                "tutar": 0
+            },
+            {
+                "koltukNo": 8,
+                "koltukDurumu": 0,
+                "alanKisi": "",
+                "tutar": 0
+            },
+            {
+                "koltukNo": 9,
+                "koltukDurumu": 0,
+                "alanKisi": "",
+                "tutar": 0
+            },
+            {
+                "koltukNo": 10,
+                "koltukDurumu": 0,
+                "alanKisi": "",
+                "tutar": 0
+            },
+            {
+                "koltukNo": 11,
+                "koltukDurumu": 0,
+                "alanKisi": "",
+                "tutar": 0
+            },
+            {
+                "koltukNo": 12,
+                "koltukDurumu": 0,
+                "alanKisi": "",
+                "tutar": 0
+            },
+            {
+                "koltukNo": 13,
+                "koltukDurumu": 0,
+                "alanKisi": "",
+                "tutar": 0
+            },
+            {
+                "koltukNo": 14,
+                "koltukDurumu": 0,
+                "alanKisi": "",
+                "tutar": 0
+            },
+            {
+                "koltukNo": 15,
+                "koltukDurumu": 0,
+                "alanKisi": "",
+                "tutar": 0
+            },
+            {
+                "koltukNo": 16,
+                "koltukDurumu": 0,
+                "alanKisi": "",
+                "tutar": 0
+            },
+            {
+                "koltukNo": 17,
+                "koltukDurumu": 0,
+                "alanKisi": "",
+                "tutar": 0
+            },
+            {
+                "koltukNo": 18,
+                "koltukDurumu": 0,
+                "alanKisi": "",
+                "tutar": 0
+            },
+            {
+                "koltukNo": 19,
+                "koltukDurumu": 0,
+                "alanKisi": "",
+                "tutar": 0
+            },
+            {
+                "koltukNo": 20,
+                "koltukDurumu": 0,
+                "alanKisi": "",
+                "tutar": 0
+            },
+            {
+                "koltukNo": 21,
+                "koltukDurumu": 0,
+                "alanKisi": "",
+                "tutar": 0
+            },
+            {
+                "koltukNo": 22,
+                "koltukDurumu": 0,
+                "alanKisi": "",
+                "tutar": 0
+            },
+            {
+                "koltukNo": 23,
+                "koltukDurumu": 0,
+                "alanKisi": "",
+                "tutar": 0
+            },
+            {
+                "koltukNo": 24,
+                "koltukDurumu": 0,
+                "alanKisi": "",
+                "tutar": 0
+            },
+            {
+                "koltukNo": 25,
+                "koltukDurumu": 0,
+                "alanKisi": "",
+                "tutar": 0
+            }
+        ]
+    },
+    "Schindler's List": {
+        "image": "schindlerslist.jpg",
+        "id": 6,
+        "koltukBilgileri": [
+            {
+                "koltukNo": 1,
+                "koltukDurumu": 0,
+                "alanKisi": "",
+                "tutar": 0
+            },
+            {
+                "koltukNo": 2,
+                "koltukDurumu": 0,
+                "alanKisi": "",
+                "tutar": 0
+            },
+            {
+                "koltukNo": 3,
+                "koltukDurumu": 0,
+                "alanKisi": "",
+                "tutar": 0
+            },
+            {
+                "koltukNo": 4,
+                "koltukDurumu": 0,
+                "alanKisi": "",
+                "tutar": 0
+            },
+            {
+                "koltukNo": 5,
+                "koltukDurumu": 0,
+                "alanKisi": "",
+                "tutar": 0
+            },
+            {
+                "koltukNo": 6,
+                "koltukDurumu": 0,
+                "alanKisi": "",
+                "tutar": 0
+            },
+            {
+                "koltukNo": 7,
+                "koltukDurumu": 0,
+                "alanKisi": "",
+                "tutar": 0
+            },
+            {
+                "koltukNo": 8,
+                "koltukDurumu": 0,
+                "alanKisi": "",
+                "tutar": 0
+            },
+            {
+                "koltukNo": 9,
+                "koltukDurumu": 0,
+                "alanKisi": "",
+                "tutar": 0
+            },
+            {
+                "koltukNo": 10,
+                "koltukDurumu": 0,
+                "alanKisi": "",
+                "tutar": 0
+            },
+            {
+                "koltukNo": 11,
+                "koltukDurumu": 0,
+                "alanKisi": "",
+                "tutar": 0
+            },
+            {
+                "koltukNo": 12,
+                "koltukDurumu": 0,
+                "alanKisi": "",
+                "tutar": 0
+            },
+            {
+                "koltukNo": 13,
+                "koltukDurumu": 0,
+                "alanKisi": "",
+                "tutar": 0
+            },
+            {
+                "koltukNo": 14,
+                "koltukDurumu": 0,
+                "alanKisi": "",
+                "tutar": 0
+            },
+            {
+                "koltukNo": 15,
+                "koltukDurumu": 0,
+                "alanKisi": "",
+                "tutar": 0
+            },
+            {
+                "koltukNo": 16,
+                "koltukDurumu": 0,
+                "alanKisi": "",
+                "tutar": 0
+            },
+            {
+                "koltukNo": 17,
+                "koltukDurumu": 0,
+                "alanKisi": "",
+                "tutar": 0
+            },
+            {
+                "koltukNo": 18,
+                "koltukDurumu": 0,
+                "alanKisi": "",
+                "tutar": 0
+            },
+            {
+                "koltukNo": 19,
+                "koltukDurumu": 0,
+                "alanKisi": "",
+                "tutar": 0
+            },
+            {
+                "koltukNo": 20,
+                "koltukDurumu": 0,
+                "alanKisi": "",
+                "tutar": 0
+            },
+            {
+                "koltukNo": 21,
+                "koltukDurumu": 0,
+                "alanKisi": "",
+                "tutar": 0
+            },
+            {
+                "koltukNo": 22,
+                "koltukDurumu": 0,
+                "alanKisi": "",
+                "tutar": 0
+            },
+            {
+                "koltukNo": 23,
+                "koltukDurumu": 0,
+                "alanKisi": "",
+                "tutar": 0
+            },
+            {
+                "koltukNo": 24,
+                "koltukDurumu": 0,
+                "alanKisi": "",
+                "tutar": 0
+            },
+            {
+                "koltukNo": 25,
+                "koltukDurumu": 0,
+                "alanKisi": "",
+                "tutar": 0
+            }
+        ]
+    }
+}

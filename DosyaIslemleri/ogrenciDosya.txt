@@ -1,0 +1,4 @@
+Ogun,Birinci,45,85
+Burak,Ikinci,80,90
+Beril,Kucukdilek,85,95
+Omer,Selvi,15,25
